@@ -1229,7 +1229,6 @@ dependencies = [
  "rustls-native-certs",
  "serde",
  "simd-json",
- "simdutf8",
  "tokio",
  "tokio-rustls",
  "uuid",
