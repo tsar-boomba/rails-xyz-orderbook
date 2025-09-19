@@ -14,8 +14,6 @@ use crate::processing::start_processing;
 async fn main() -> color_eyre::Result<()> {
     color_eyre::install().unwrap();
 
-    dotenvy::dotenv()?;
-
     let client = Client::new()?;
 
     let (ws, _res) = client
