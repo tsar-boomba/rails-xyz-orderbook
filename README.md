@@ -2,7 +2,7 @@
 
 Haiiii :3 I'm Isaiah "Ibomb" Gamble and this is my warm up project for Trading @GT QD!!
 
-I decided to take a look at the [[rails.xyz]] exchange.
+I decided to take a look at the [rails.xyz](rails.xyz) exchange.
 
 ## Process
 
